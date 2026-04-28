@@ -1,2 +1,7 @@
-# demo-jmd-odontologia
-Demo web para Jmd Odontologia — diseñada por eterlab.
+# Jmd Odontologia
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
